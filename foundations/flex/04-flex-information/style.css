@@ -39,5 +39,9 @@ img {
 .barberry {
   /* border: solid 4px blue; */
   width: 200px;
+  display: flex;
   text-align: center;
+  flex-wrap: wrap;
+  justify-content: center;
 }
+
